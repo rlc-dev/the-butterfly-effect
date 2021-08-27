@@ -1,2 +1,2 @@
 # the-butterfly-effect
-Card effect wizardry with js
+Card hover effect with three js
